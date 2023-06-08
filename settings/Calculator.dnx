@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<settings>
+    <LmiFtdiDriver>
+        <LeaveTargetRunning>_ 0</LeaveTargetRunning>
+        <CStepIntDis>_ 0</CStepIntDis>
+        <LmiFtdiResetStyle>0</LmiFtdiResetStyle>
+        <LmiFtdiResetStrategy>0</LmiFtdiResetStrategy>
+        <LMIFTDIserialNo>0E235946</LMIFTDIserialNo>
+        <LMIFTDIfoundProbes />
+    </LmiFtdiDriver>
+    <PlDriver>
+        <MemConfigValue>F:\semester 7\embeded\IAR\arm\CONFIG\debugger\TexasInstruments\TM4C123GE6PM.ddf</MemConfigValue>
+        <FirstRun>0</FirstRun>
+    </PlDriver>
+    <DebugChecksum>
+        <Checksum>1249109228</Checksum>
+    </DebugChecksum>
+    <Exceptions>
+        <StopOnUncaught>_ 0</StopOnUncaught>
+        <StopOnThrow>_ 0</StopOnThrow>
+    </Exceptions>
+    <Disassembly>
+        <MixedMode>1</MixedMode>
+    </Disassembly>
+    <Trace1>
+        <Enabled>0</Enabled>
+        <ShowSource>1</ShowSource>
+    </Trace1>
+    <Stack>
+        <FillEnabled>0</FillEnabled>
+        <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
+        <WarningThreshold>90</WarningThreshold>
+        <SpWarningsEnabled>1</SpWarningsEnabled>
+        <WarnLogOnly>1</WarnLogOnly>
+        <UseTrigger>1</UseTrigger>
+        <TriggerName>main</TriggerName>
+        <LimitSize>0</LimitSize>
+        <ByteLimit>50</ByteLimit>
+    </Stack>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <ArmDriver>
+        <EnableCache>0</EnableCache>
+        <EnforceMemoryConfiguration>1</EnforceMemoryConfiguration>
+    </ArmDriver>
+    <Trace2>
+        <Enabled>0</Enabled>
+        <ShowSource>0</ShowSource>
+    </Trace2>
+    <DisassembleMode>
+        <mode>0</mode>
+    </DisassembleMode>
+    <Breakpoints2>
+        <Count>0</Count>
+    </Breakpoints2>
+    <Aliases>
+        <A0>_ "C:\Embedded\project13\Tiva-C-Applications-With-LCD-Keypad-master\main.c" "D:\semester 7\Embeded\ti\TivaWare_C_Series-2.0.1.11577\driverlib\ewarm\Exe\driverlib.a"</A0>
+        <A1>_ "C:\Jenkins\workspace\TivaWare-Git-Release\DriverLib\build\DriverLib.test\driverlib\cpu.c" ""</A1>
+        <A2>_ "C:\Jenkins\workspace\TivaWare-Git-Release\DriverLib\build\DriverLib.test\driverlib\gpio.c" ""</A2>
+        <A3>_ "C:\Jenkins\workspace\TivaWare-Git-Release\DriverLib\build\DriverLib.test\driverlib\interrupt.c" ""</A3>
+        <A4>_ "C:\Jenkins\workspace\TivaWare-Git-Release\DriverLib\build\DriverLib.test\driverlib\timer.c" ""</A4>
+        <Count>5</Count>
+        <SuppressDialog>0</SuppressDialog>
+    </Aliases>
+    <TermIOLog>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+    </TermIOLog>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ "$PROJ_DIR$\LogFile1.log"</LogFile>
+        <Category2>_ 2</Category2>
+    </LogFile>
+</settings>

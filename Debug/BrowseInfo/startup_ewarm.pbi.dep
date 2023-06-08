@@ -1,0 +1,10 @@
+F:\semester\ 7\proj_final_0\Debug\BrowseInfo\startup_ewarm.pbi: \
+  F:\semester\ 7\proj_final_0\startup_ewarm.c \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\stdint.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\ycheck.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\yvals.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\DLib_Defaults.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\DLib_Config_Normal.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\DLib_Product.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\inc\hw_nvic.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\inc\hw_types.h

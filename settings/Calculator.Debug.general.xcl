@@ -1,0 +1,15 @@
+"F:\semester 7\embeded\IAR\arm\bin\armPROC.dll" 
+
+"F:\semester 7\embeded\IAR\arm\bin\armLMIFTDI.dll" 
+
+"F:\semester 7\proj_final_0\Debug\Exe\Calculator.out" 
+
+--plugin="F:\semester 7\embeded\IAR\arm\bin\armbat.dll" 
+
+--device_macro="F:\semester 7\embeded\IAR\arm/config/debugger/TexasInstruments/TM4C123.dmac" 
+
+--flash_loader="F:\semester 7\embeded\IAR\arm/config/flashloader/TexasInstruments/FlashTC4_E6_o.board" 
+
+
+
+

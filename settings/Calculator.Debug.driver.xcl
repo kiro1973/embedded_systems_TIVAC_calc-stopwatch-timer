@@ -1,0 +1,21 @@
+"--endian=little" 
+
+"--cpu=Cortex-M4" 
+
+"--fpu=VFPv4_SP" 
+
+"-p" 
+
+"F:\semester 7\embeded\IAR\arm\CONFIG\debugger\TexasInstruments\TM4C123GE6PM.ddf" 
+
+"--semihosting" 
+
+"--device=TM4C123GE6PM" 
+
+"--drv_interface_speed=500" 
+
+"--lmiftdi_reset_strategy=0,0" 
+
+
+
+

@@ -1,0 +1,40 @@
+F:\semester\ 7\proj_final_0\Debug\BrowseInfo\Adv_Calc.pbi: \
+  F:\semester\ 7\proj_final_0\Adv_Calc.c \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\stdint.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\ycheck.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\yvals.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\DLib_Defaults.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\DLib_Config_Normal.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\DLib_Product.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\stdio.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\ysizet.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\stdbool.h \
+  F:\semester\ 7\proj_final_0\Systick_Timer.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\inc\hw_ints.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\inc\hw_memmap.h \
+  F:\semester\ 7\proj_final_0\tm4c123gh6pm.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\inc\hw_types.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\debug.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\fpu.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\gpio.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\interrupt.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\pin_map.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\rom.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\rom_map.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\sysctl.h \
+  C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\timer.h \
+  F:\semester\ 7\proj_final_0\LCD.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\stdlib.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\DLib_Product_stdlib.h \
+  F:\semester\ 7\proj_final_0\dmc1610a.h \
+  F:\semester\ 7\proj_final_0\delay.h F:\semester\ 7\proj_final_0\keypad.h \
+  F:\semester\ 7\proj_final_0\Delay.h \
+  F:\semester\ 7\proj_final_0\Calculator_Base.h \
+  F:\semester\ 7\proj_final_0\Calculator.h \
+  F:\semester\ 7\proj_final_0\Adv_Calc.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\math.h \
+  F:\semester\ 7\embeded\IAR\arm\inc\c\DLib_float_setup.h \
+  F:\semester\ 7\proj_final_0\Keypad.h F:\semester\ 7\proj_final_0\LEDs.h \
+  F:\semester\ 7\proj_final_0\Basic_Calc.h \
+  F:\semester\ 7\proj_final_0\stopwatch_2.h \
+  F:\semester\ 7\proj_final_0\types.h
